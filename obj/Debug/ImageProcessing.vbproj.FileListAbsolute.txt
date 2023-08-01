@@ -1,0 +1,13 @@
+C:\Users\phina\source\repos\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+C:\Users\phina\source\repos\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\phina\source\repos\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\phina\source\repos\ImageProcessing\bin\Debug\ImageProcessing.xml
+C:\Users\phina\source\repos\ImageProcessing\obj\Debug\ImageProcessing.vbproj.AssemblyReference.cache
+C:\Users\phina\source\repos\ImageProcessing\obj\Debug\ImageProcessing.vbproj.SuggestedBindingRedirects.cache
+C:\Users\phina\source\repos\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+C:\Users\phina\source\repos\ImageProcessing\obj\Debug\ImageProcessing.Resources.resources
+C:\Users\phina\source\repos\ImageProcessing\obj\Debug\ImageProcessing.vbproj.GenerateResource.cache
+C:\Users\phina\source\repos\ImageProcessing\obj\Debug\ImageProcessing.vbproj.CoreCompileInputs.cache
+C:\Users\phina\source\repos\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\phina\source\repos\ImageProcessing\obj\Debug\ImageProcessing.xml
+C:\Users\phina\source\repos\ImageProcessing\obj\Debug\ImageProcessing.pdb
